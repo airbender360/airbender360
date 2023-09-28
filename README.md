@@ -1,0 +1,5 @@
+- 👋 Hi
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ... wdio, typescript  and phyton.
+- 💞️ I’m looking to collaborate on everything that helps me to understand.
+- 📫 How to reach me ... @airbender360 
